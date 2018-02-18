@@ -1,2 +1,2 @@
 # Citramart
-Simple wesite for minimarket named citramart
+Simple website for minimarket named citramart
